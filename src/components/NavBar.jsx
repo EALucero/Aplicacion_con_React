@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from '../assets/images/jordan-walke.png'
+import avatar from '../assets/images/jordan-walke.png';
 
 export default function NavBar () {
     return (
